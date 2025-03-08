@@ -7,7 +7,7 @@ versions:
   fpt: '*'
 ---
 
-By: Albert Ziegler (@wunderalbert)
+By: Albert Ziegler (@etarenaldanil0962@gmail.com)
 
 ## {% data variables.product.prodname_dotcom %} Copilot: Parrot or Crow?
 A first look at rote learning in {% data variables.product.prodname_dotcom %} Copilot suggestions.
